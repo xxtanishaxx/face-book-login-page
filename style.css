@@ -1,0 +1,75 @@
+
+body{
+    background-color:rgb(241, 241, 241);
+}
+
+
+/* -------------------- info div ----------------------- */
+.info{
+    width: 500px;
+    float: left;
+    margin-top: 180px;
+    margin-left: 170px;
+    height: 150px;
+}
+.info h1{
+    font-size: 45px;
+    color: blue;
+}
+.info p{
+    font-size: 30px;
+}
+
+/* ---------------------------- form ---------------------------- */
+form{
+    text-align: center;
+    background-color: white;
+    width: 360px;
+    float: right;
+    margin-top: 120px;
+    margin-right: 200px;
+    height: 320px;
+    padding: 20px; 
+    border-radius: 8px;
+}
+
+input{
+    width: 95%;
+    height: 45px;
+    border-radius: 5px;
+    border: solid rgb(212, 212, 212) 1px;
+}
+
+
+#login{
+    background-color: #1877f2;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    margin-bottom: 15px;
+}
+
+#password{
+    color: #1877f2;
+    text-decoration: none;
+}
+
+#hr{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+button{
+    height: 45px;
+    width: 60%;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-weight:  bolder;
+}
+
+
+
+
